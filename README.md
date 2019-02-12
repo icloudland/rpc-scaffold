@@ -1,0 +1,1 @@
+rpc scaffold for go
